@@ -2,7 +2,7 @@
 #### (Python - Django) Track
 ---
 
-## Python
+## ⭐ Python 
 
 * **EN Courses**
    * [Python for Everybody - Full Course with Dr. Chuck](https://www.youtube.com/watch?v=8DvywoWv6fI)
@@ -15,20 +15,22 @@
    * [Master Python from Beginner to Advanced in Arabic](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ)
    * [Python Beginners Tutorial](https://www.youtube.com/playlist?list=PL1DUmTEdeA6JCaY0EKssdqbiqq4sgRlUC)
 
-* **Books**
+* **Books 📚**
   * Python Crash Course, 2nd Edition A Hands-On, Project-Based Introduction to Programming by Eric Matthes
   * Learning Python, 5th Edition by Mark Lutz
   * Python Tricks A Buffet of Awesome Python Features by Dan Bader
   * Object-Oriented Analysis, Design and Implementation by Brahma Dathan and Sarnath Ramnath, An Integrated Approach, 2nd Edition
 ---
 
-## Data structures and algorithms
+## ⭐ Data structures and algorithms
 * [Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
 * [Data Structure and Algorithms || Python](https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
 * [Algorithms and Data Structures Tutorial - Full Course for Beginners ](https://www.youtube.com/watch?v=8hly31xKli0)
+* [Algorithms 1 - Stanford Algorithms](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V)
 * [Algorithms and Data Structures - In arabic ](https://www.youtube.com/playlist?list=PLTr1xN4uMK5tSBFyXeonC2khyir0aMwQv)
 
-* **Books**
+
+* **Books 📚**
    * Grokking Algorithms An illustrated guide for programmers and other curious people by Aditya Bhargava
    * Introduction to algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
    * Algorithms, 4th Edition Essential Information about Algorithms and Data Structures by Robert Sedgewick, Kevin Wayne
@@ -36,21 +38,22 @@
    * Algorithms unplugged (springer)
 
 ---
-## Database 
+## ⭐ Database 
 
 * [CS50 course](https://www.youtube.com/watch?v=MaqfxpCBMJI)
 * [CMU course](https://www.youtube.com/playlist?list=PLSE8ODhjZXjZaHA6QcxDfJ0SIWBzQFKEG)
 
 
-* **Books**
+* **Books 📚**
    * Database Systems Design, Implementation, Management by Carlos Coronel, Steven Morris
    * DBMS by K. K. Panigrahi
    * Learning PostgreSQL 10 by Salahaldin Juba, Andrey Volkov
    * Database Internals A Deep-Dive into How Distributed Data Systems Work by Alex Petrov
 ---
-## Django Framework
+## ⭐ Django Framework
 * **EN Courses**
-   * [Django for Everybody](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj5e-EH0t3kXrcdygrL9-u-Z)
+   * [Django for Everybody - Dr. Chuck](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj5e-EH0t3kXrcdygrL9-u-Z)
+   * [Try Django 3.2 - Coding Entrepreneurs](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL)
    * [Django (3.0) Crash Course Tutorials - DennisIvy](https://www.youtube.com/playlist?list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO)
    * [Django Tutorials - CoreySchafer](https://www.youtube.com/playlist?list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO)
    * [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
@@ -58,23 +61,63 @@
     * [Django Tutorial for Beginners [Full Course] ](https://www.youtube.com/playlist?list=PL2z1gXAKH9c3XUn2HYMWRbAon4z6AQ4CL)
     * [كورس جانجو كامل للمبتدئين | Django Tutorial for Beginners](https://www.youtube.com/playlist?list=PLknwEmKsW8OtK_n48UOuYGxJPbSFrICxm)
 
-* **Useful websites**
+* **Websites**
    * [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/)
    * [MDN : Django Web Framework (Python)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
    * [Working with Redis in Python with Django](https://stackabuse.com/working-with-redis-in-python-with-django/)
    * [Using Celery with Django](https://docs.celeryproject.org/en/stable/django/first-steps-with-django.html)
 
-* **Books**
+* **Books 📚**
    * Django for Beginners, William S Vincent
    * Django for Professionals , William S Vincent
    * Django 3 By Example Build powerful and reliable Python web applications from scratch, 3rd Edition by Melé, Antonio 
+   * Two Scoops of Django 3.x by Daniel Audrey Feldroy 
 ---
 
-## Django REST framework
- 
- * **Books**
-    * Django for API, William S Vincent
----
-## Docker
+## ⭐ Django REST framework
+* [Learn Django Rest Framework](https://www.youtube.com/playlist?list=PLOLrQ9Pn6caw0PjVwymNc64NkUNbZlhFw)
+* [Introduction to Django Rest Framework](https://www.youtube.com/playlist?list=PLLxk3TkuAYnrO32ABtQyw2hLRWt1BUrhj)
+* [Build an API with Django](https://www.youtube.com/playlist?list=PLLRM7ROnmA9HzbIXYN6D3wOZ0wUrqNs_d)
+* [Advanced Django: Mastering Django and Django Rest Framework Specialization](https://www.coursera.org/specializations/codio-advanced-django-and-django-rest-framework) 
+* [Building HTTP APIs With Django REST Framework](https://realpython.com/courses/django-rest-framework/)
 
+* **Books 📚**
+   * Django for API, William S Vincent
 ---
+## ⭐ Docker
+* [Docker Tutorial for Beginners - TechWorld with Nana](https://www.youtube.com/watch?v=3c-iBn73dDE)
+* [Docker Mastery with Django - Very Academy](https://www.youtube.com/playlist?list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C)
+* [Creating Django App on Docker](https://www.youtube.com/watch?v=XDaQAmkDFX4)
+* [Building Containerized Applications on AWS](https://www.coursera.org/learn/containerized-apps-on-aws)
+
+* **Books 📚**
+   * Docker Deep Dive Zero to Docker in a single book by Nigel Poulton
+   * Docker A Project-Based Approach to Learning by Cannon, Jason
+   * Docker for Developers Develop and run your application with Docker containers using DevOps tools for continuous delivery by Richard Bullington-McGuire, Andrew K. Dennis, Michael Schwartz
+   * Learning Docker Optimize the power of Docker to run your applications quickly and easily by Pethuru Raj, Jeeva S. Chelladhurai, Vinod Singh
+---
+## ⭐ Aditional Resources 
+* **Git & GitHub**
+  * [Git & GitHub Tutorial for Beginners](https://youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
+  * [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)
+
+* **Youtube channels** 
+   * [Very Academy](https://www.youtube.com/c/veryacademy)
+   * [TechWorld with Nana](https://www.youtube.com/c/TechWorldwithNana)
+   * [JustDjango](https://www.youtube.com/c/JustDjango)
+   * [Corey Schafer](https://www.youtube.com/c/Coreyms)
+   * [Coding Entrepreneurs](https://www.youtube.com/c/CodingEntrepreneurs/playlists)
+   * [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+   * [Hussein Nasser Channel](https://www.youtube.com/c/HusseinNasser-software-engineering)
+
+* **Websites**
+    * [Django docs](https://docs.djangoproject.com/en/4.0/)
+    * [Django REST docs](https://www.django-rest-framework.org/topics/documenting-your-api/)
+    * [Docker docs](https://docs.docker.com/get-started/overview/)
+ ---
+ #### ✨ Special thanks to 
+   * Eng. Elsaeed Ahmed
+   * Eng. Taher Mostafa 
+   * Eng. Mostafa Allam
+   * Eng. Abdallah Magdy
+#### For their continuous support and efforts 🤍
