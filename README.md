@@ -9,6 +9,8 @@
    * [CS50 2016 - Week 8 - Python](https://www.youtube.com/watch?v=5aP9Bl9hcqI)
    * [Python OOP Tutorials - Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
    * [MIT - intro to computer science using python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+   * Testing
+      * [Getting Started With Testing in Python - realpython](https://realpython.com/python-testing/) 
 
 * **AR Courses**
    * [Mastering Python - Elzero Web School](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
@@ -62,6 +64,8 @@
    * [Django (3.0) Crash Course Tutorials - DennisIvy](https://www.youtube.com/playlist?list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO)
    * [Django Tutorials - CoreySchafer](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
    * [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
+   * Testing
+     * [Pytest Mastery with Django - Very Acadmy](https://www.youtube.com/playlist?list=PLOLrQ9Pn6caw3ilqDR8_qezp76QuEOlHY)
 * **AR Courses**
     * [Django Tutorial for Beginners [Full Course] - CodingMirror](https://www.youtube.com/playlist?list=PL2z1gXAKH9c3XUn2HYMWRbAon4z6AQ4CL)
     * [Django Tutorial for Beginners - Abdelrahman Gamal](https://www.youtube.com/playlist?list=PLknwEmKsW8OtK_n48UOuYGxJPbSFrICxm)
@@ -105,7 +109,7 @@
    * Docker for Developers Develop and run your application with Docker containers using DevOps tools for continuous delivery by Richard Bullington-McGuire, Andrew K. Dennis, Michael Schwartz
    * Learning Docker Optimize the power of Docker to run your applications quickly and easily by Pethuru Raj, Jeeva S. Chelladhurai, Vinod Singh
 ---
-## ⭐ Aditional Resources 
+## ⭐ Additional Resources 
 * **Git & GitHub**
   * [Git & GitHub Tutorial for Beginners - TheNetNinja](https://youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
   * [Introduction to Git and GitHub - Coursera](https://www.coursera.org/learn/introduction-git-github)
